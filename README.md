@@ -1,3 +1,3 @@
-# DimRed_tutorial
+# Dimensionality reduction tutorial
 
-Sample scRNA-seq data hosted in https://figshare.com/articles/dataset/Sample_scRNA-seq_data/21356205
+Sample scRNA-seq data hosted on [Figshare](https://figshare.com/account/projects/151215/articles/21641510)
