@@ -23,3 +23,8 @@ We suggested to use single-cell or single-nuclei data to illustrate the same con
 We provide Jupyter notebooks that reproduce the examples presented in the article [on PCA](scMaterials/sc_PCA.ipynb) and on [non-linear methods](scMaterials/sc_NonLinear.ipynb)
 ## Data 
 The scRNA-seq data for these examples is provided in a loom file hosted on [Figshare](https://figshare.com/projects/Dimensionality_Reduction_Tutorial/151215)
+
+# Additional examples
+We provide a web-based resource with dimensionality reduction demos on 2D and 3D data: (https://reduce.streamlit.app/)
+
+These are simple examples that might help students visualize some of the dimensionality reduction concepts.
