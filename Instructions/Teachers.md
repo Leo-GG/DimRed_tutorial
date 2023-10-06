@@ -14,6 +14,9 @@ Here are some advantages and disadvantages of each:
 - Google Colab:
   - Advantages: Google Colab is a free cloud service based on Jupyter Notebooks for machine learning education and research. It provides free GPU and is easy to use. It’s an excellent tool for collaborative projects as notebooks can be easily shared with others.
   - Disadvantages: The session times out after a period of inactivity; also, there’s less control over the environment compared to local setup.
+ 
+## Running the notebooks on Google Colab
+- If you have a (free) google account, you can run Jupyter notebooks on [colab](https://colab.research.google.com/) directly on your browser without installing anything on your computer. To do so, simply go to (https://colab.research.google.com/) and press "File/Upload notebook" on the top menu. The colab interface is slightly different from the Jupyter one, but both will run the same Python code.
 
 ## Interacting with the notebooks
 
