@@ -7,10 +7,10 @@ The article describes a series of examples based on demographic data and single 
 # COVID-19 demographics examples
 We propose to use a very simple dataset with demographic data from the COVID-19 pandemic to illustrate PCA and non-linear dimensionality reduction.
 ## Materials
-We provide [a Jupyter notebook for the PCA examples](https://github.com/Leo-GG/DimRed_tutorial/blob/main/Exercises/countries_PCA_exercises.ipynb) that contains annotations and examples for the students.
-A second notebook contains the code to reproduce the examples demonstrating non-linear methods presented in the paper.
+We provide [a Jupyter notebook for the PCA examples](demographicsMaterials/covid_PCA.ipynb) that contains annotations and examples for the students.
+A [second notebook](demographicsMaterials/covid_NonLinear.ipynb) contains the code to reproduce the examples demonstrating non-linear methods presented in the paper.
 ## Data
-The data is provided in [a small .csv file hosted in this repository](https://github.com/Leo-GG/DimRed_tutorial/blob/main/Exercises/covid_processed.csv) 
+The data is provided in [a small .csv file](demographicsMaterials/covid_processed.csv) 
 
 # Single-cell transcriptomics examples
 We suggested to use single-cell or single-nuclei data to illustrate the same concepts using a larger, more complex dataset.
