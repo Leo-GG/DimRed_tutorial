@@ -16,7 +16,15 @@ Here are some advantages and disadvantages of each:
   - Disadvantages: The session times out after a period of inactivity; also, there’s less control over the environment compared to local setup.
  
 ## Running the notebooks on Google Colab
-- If you have a (free) google account, you can run Jupyter notebooks on [colab](https://colab.research.google.com/) directly on your browser without installing anything on your computer. To do so, simply go to (https://colab.research.google.com/) and press "File/Upload notebook" on the top menu. The colab interface is slightly different from the Jupyter one, but both will run the same Python code.
+- If you have a (free) google account, you can run Jupyter notebooks on [colab](https://colab.research.google.com/) directly on your browser without having to download or install anything on your computer. To do so, simply click the links bellow:
+  -[Notebook with PCA using COVID-19 data](https://githubtocolab.com/Leo-GG/DimRed_tutorial/blob/main/demographicsMaterials/covid_PCA.ipynb)
+  -[Notebook with non-linear methods using COVID-19 data](https://githubtocolab.com/Leo-GG/DimRed_tutorial/blob/main/demographicsMaterials/covid_NonLinear.ipynb)
+  -[Notebook with PCA using single-cell RNAseq data](https://githubtocolab.com/Leo-GG/DimRed_tutorial/blob/main/scMaterials/sc_PCA.ipynb)
+  -[Notebook with non-linear methods using single-cell RNAseq data](https://githubtocolab.com/Leo-GG/DimRed_tutorial/blob/main/scMaterials/sc_NonLinear.ipynb)
+  
+-  Feel free to make alterations in the Jupyter notebooks you can allways go back to the original files or save your own versions.
+-  You can use Google Colab to open Jupyter notebooks on your local computer by going to https://colab.research.google.com/ and pressing "File/Upload notebook" on the top menu. The colab interface is slightly different from the Jupyter one, but both will run the same Python code.
+
 
 ## Interacting with the notebooks
 
