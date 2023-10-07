@@ -23,7 +23,7 @@ Here are some advantages and disadvantages of each:
   -[Notebook with non-linear methods using single-cell RNAseq data](https://githubtocolab.com/Leo-GG/DimRed_tutorial/blob/main/scMaterials/sc_NonLinear.ipynb)
   
 -  Feel free to make alterations in the Jupyter notebooks you can allways go back to the original files or save your own versions.
--  You can use Google Colab to open Jupyter notebooks on your local computer by going to https://colab.research.google.com/ and pressing "File/Upload notebook" on the top menu. The colab interface is slightly different from the Jupyter one, but both will run the same Python code.
+-  You can use Google Colab to open Jupyter notebooks from your local computer by going to https://colab.research.google.com/ and pressing "File/Upload notebook" on the top menu. The colab interface is slightly different from the Jupyter one, but both will run the same Python code.
 
 
 ## Interacting with the notebooks
