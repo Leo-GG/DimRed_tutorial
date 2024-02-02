@@ -1,6 +1,6 @@
 # Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biochemistry and Molecular Biology Students
 
-This repository contains teacher & student materials accompanying the article "Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biochemistry and Molecular Biology Students" (link pending publication).
+This repository contains teacher & student materials accompanying the article ["Demystifying Dimensionality Reduction Techniques in the 'Omics' Era: A Practical Approach for Biochemistry and Molecular Biology Students"](https://iubmb.onlinelibrary.wiley.com/doi/10.1002/bmb.21800) (Garma L.D. and Osorio N.S., 2023).
 
 The article describes a series of examples based on demographic data and single cell transcriptomics (on the sc/ folder) that we found useful for teaching concepts and applied methods of dimensionality reduction to students from non-mathematical backgrounds.
 
